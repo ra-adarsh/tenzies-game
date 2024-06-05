@@ -5,8 +5,6 @@ import "./Box.css"
 import Die from "./Die";
 
 function DisplayConfetti() {
-    // const width = "1280";
-    // const height = "650";
     return (
         <Confetti
         width={window.innerWidth}
